@@ -1,0 +1,14 @@
+# Executables & Temporary files
+apc
+a.out
+*.out
+*.exe
+*.o
+*.obj
+data
+next
+prev
+
+# IDE files
+.vscode/
+.idea/
